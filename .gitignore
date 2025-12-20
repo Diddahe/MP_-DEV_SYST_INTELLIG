@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements
+venv/
+.env/
+
+# Build / cache
+build/
+dist/
+.cache/
+
+# Données volumineuses
+data/
+*.csv
+*.zip
+*.tar
